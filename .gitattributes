@@ -1,0 +1,7 @@
+# Default text EOL
+* text=auto
+
+# Executables
+*.bat text eol=crlf
+*.sh text eol=lf
+*.txt text
