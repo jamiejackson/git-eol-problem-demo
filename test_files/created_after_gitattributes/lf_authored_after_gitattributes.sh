@@ -6,4 +6,4 @@ before
 .gitattributes
 was
 applied
-and was authored with crlfs
+and was authored with lfs
